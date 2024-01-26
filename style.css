@@ -1,0 +1,52 @@
+ *{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+    font-family: inter;
+
+ }
+ .vmc-booking{
+    font-size: xx-large;
+    font-style: normal;
+    text-align: center;
+    font-family: inter;
+    font-weight: bold;
+}
+.top-confirm{
+    margin-left: 30px;
+    font-size: x-large;
+    font-weight: bold;
+    padding-top: 15px;
+}
+.p-tag-enter{
+    margin: 30px;
+    font-size: 15px;
+    font-family: inter;
+
+}
+.input-group{
+    margin: 30px;
+    
+}
+.keep{
+    font-weight: bold;
+    padding-top: 15px;
+    font-family: inter;
+}
+.personal-devices{
+    margin: 17px;
+    font-size: 10px;
+    font-family: inter;
+}
+.input-top-group{
+
+}
+input{
+    background-color: blue;
+    w
+    
+}
+.resend{
+    color: black;
+    text-align: center;
+}
